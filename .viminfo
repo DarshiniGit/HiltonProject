@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1659023953,,"wq!"
+|2,0,1659414084,,"wq!"
 :q!
 |2,0,1659023889,,"q!"
 :q
@@ -29,34 +29,55 @@
 # Registers:
 
 # File marks:
-'0  1  7  /etc/cron.allow
-|4,48,1,7,1659023953,"/etc/cron.allow"
-'1  1  0  /etc/cron.allow
-|4,49,1,0,1659023889,"/etc/cron.allow"
+'0  14  41  ~/gitcode/string.java
+|4,48,14,41,1659414084,"~/gitcode/string.java"
+'1  1  7  /etc/cron.allow
+|4,49,1,7,1659023953,"/etc/cron.allow"
 '2  1  0  /etc/cron.allow
-|4,50,1,0,1659023829,"/etc/cron.allow"
+|4,50,1,0,1659023889,"/etc/cron.allow"
 '3  1  0  /etc/cron.allow
 |4,51,1,0,1659023829,"/etc/cron.allow"
 '4  1  0  /etc/cron.allow
-|4,52,1,0,1659010134,"/etc/cron.allow"
+|4,52,1,0,1659023829,"/etc/cron.allow"
 '5  1  0  /etc/cron.allow
 |4,53,1,0,1659010134,"/etc/cron.allow"
 '6  1  0  /etc/cron.allow
 |4,54,1,0,1659010134,"/etc/cron.allow"
 '7  1  0  /etc/cron.allow
 |4,55,1,0,1659010134,"/etc/cron.allow"
+'8  1  0  /etc/cron.allow
+|4,56,1,0,1659010134,"/etc/cron.allow"
 
 # Jumplist (newest first):
+-'  14  41  ~/gitcode/string.java
+|4,39,14,41,1659414084,"~/gitcode/string.java"
+-'  1  0  ~/gitcode/string.java
+|4,39,1,0,1659414035,"~/gitcode/string.java"
+-'  1  7  /etc/cron.allow
+|4,39,1,7,1659023953,"/etc/cron.allow"
 -'  1  7  /etc/cron.allow
 |4,39,1,7,1659023953,"/etc/cron.allow"
 -'  1  0  /etc/cron.allow
 |4,39,1,0,1659023889,"/etc/cron.allow"
 -'  1  0  /etc/cron.allow
+|4,39,1,0,1659023889,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
 |4,39,1,0,1659023829,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1659023829,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1659010134,"/etc/cron.allow"
 -'  1  0  /etc/cron.allow
 |4,39,1,0,1659010134,"/etc/cron.allow"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitcode/string.java
+	*	1659414080	0
+	"	14	41
+	^	14	42
+	.	14	41
+	+	14	41
 
 > /etc/cron.allow
 	*	1659023949	0
